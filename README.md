@@ -4,7 +4,7 @@ I like building things.
 I mostly work with JavaScript and web technologies, but I'm currently diving into Java and Minecraft modding.
 
 ## My Stack
-<p align="center">
+<p>
   <img src="https://skills.syvixor.com/api/icons?i=intellijidea"/>
   <img src="https://skillicons.dev/icons?i=sublime,js,nodejs,webpack,nextjs,react,java,figma,mongodb,electron,vite,html,css,express,discordjs,playwright&theme=dark&perline=8"/>
 </p>
