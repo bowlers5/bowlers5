@@ -12,5 +12,6 @@ I mostly work with JavaScript and web technologies, but I'm currently diving int
 <p>
   <a href="https://discord.com/discovery/applications/1270062821287133205" target="_blank">
     <img style="border-radius:10px;" src="https://i.postimg.cc/V6xjDKXF/64x64.png" alt="Latest Project" width="48"/>
+    <img src="https://i.postimg.cc/7hXSw-wpK/icons8-intellij-idea-48.png" alt="IntelliJ IDEA" width="48"/>
   </a>
 </p>
