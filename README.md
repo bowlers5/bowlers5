@@ -9,7 +9,7 @@ I mostly work with JavaScript and web technologies, but I'm currently diving int
 </p>
 
 ## Latest Project
-<p align="center">
+<p>
   <a href="https://discord.com/discovery/applications/1270062821287133205" target="_blank">
     <img src="https://i.postimg.cc/V6xjDKXF/64x64.png" alt="Latest Project" width="48"/>
   </a>
