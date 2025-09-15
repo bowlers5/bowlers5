@@ -5,7 +5,7 @@ I mostly work with JavaScript and web technologies, but I'm currently diving int
 
 ## My Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sublime, intellij, js,nodejs,webpack,nextjs,react,java,figma,mongodb,electron,vite,html,css,express,discordjs,playwright&theme=dark&perline=8" alt="My Stack" />
+  <img src="https://skillicons.dev/icons?i=sublime,intellij, js,nodejs,webpack,nextjs,react,java,figma,mongodb,electron,vite,html,css,express,discordjs,playwright&theme=dark&perline=8" alt="My Stack" />
 </p>
 
 ## Latest Project
