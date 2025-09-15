@@ -11,9 +11,7 @@ I mostly work with JavaScript and web technologies, but I'm currently diving int
 ## Latest Project
 <p align="center">
   <a href="https://discord.com/discovery/applications/1270062821287133205" target="_blank">
-    <img src="https://i.postimg.cc/V6xjDKXF/64x64.png" alt="Latest Project" width="32"/>
+    <em>Check out my latest Discord app project!</em>
+    <img src="https://i.postimg.cc/V6xjDKXF/64x64.png" alt="Latest Project" width=""/>
   </a>
-</p>
-<p align="center">
-  <em>Check out my latest Discord app project!</em>
 </p>
