@@ -5,8 +5,8 @@ I mostly work with JavaScript and web technologies, but I'm currently diving int
 
 ## My Stack
 <p align="center">
-  <img src="https://i.postimg.cc/Dw1yXBzT/icons8-intellij-idea-64.png" alt="IntelliJ IDEA" width="64"/>
-  <img src="https://skillicons.dev/icons?i=sublime,intellij,js,nodejs,webpack,nextjs,react,java,figma,mongodb,electron,vite,html,css,express,discordjs,playwright&theme=dark&perline=8" alt="My Stack" />
+  <img src="https://skills.syvixor.com/api/icons?i=intellijidea"/>
+  <img src="https://skillicons.dev/icons?i=sublime,js,nodejs,webpack,nextjs,react,java,figma,mongodb,electron,vite,html,css,express,discordjs,playwright&theme=dark&perline=8"/>
 </p>
 
 ## Latest Project
